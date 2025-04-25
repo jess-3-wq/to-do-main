@@ -1,0 +1,38 @@
+{
+  "todos": [
+    {
+      "id": "6",
+      "title": "Prepare lunch",
+      "completed": false
+    },
+    {
+      "id": "8",
+      "title": "Refill the water dispenser",
+      "completed": true
+    },
+    {
+      "id": "8dd6",
+      "title": "clean house"
+    },
+    {
+      "id": "b75c",
+      "title": "study for the upcoming exams"
+    },
+    {
+      "id": "c71e",
+      "title": "study for the exam"
+    },
+    {
+      "id": "8e01",
+      "title": "study for the exam"
+    },
+    {
+      "id": "8a64",
+      "title": "create an app"
+    },
+    {
+      "id": "51c3",
+      "title": "buy clothes"
+    }
+  ]
+}
